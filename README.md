@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project simulates the launch of a 5% cash-back offer and develops a data-driven targeting strategy under marketing budget constraint.The main objective is to identify which customer segments should be prioritized in order to maximize offer adoption while controlling credit risk exposure. By using behavioral metrics, customer segmentation, logistical regression modeling, and scenarios analysis, I evaluated multiple scenarios to determine the most effective customer group to balance growth and efficiency.
+This project simulates the launch of a 5% cash-back offer and develops a data-driven targeting strategy under marketing budget constraint. The main objective is to identify which customer segments should be prioritized in order to maximize offer adoption while controlling credit risk exposure. By using behavioral metrics, customer segmentation, logistical regression modeling, and scenarios analysis, I evaluated multiple scenarios to determine the most effective customer group to balance growth and efficiency.
 
 ## Business Problem
 
@@ -38,8 +38,7 @@ an adopter higher than a non-adopter about 73% of the time.
 - Targeting top 40% → 2,262 expected adopters (18.9% adoption rate)
 - Zero default risk exposure across all targeting scenarios
 
-Expanding targeting from top 20% to top 30% increased total adopters by roughly 42% while maintaining zero default exposure, despite a slight decline in 
-adoption rate.  
+Expanding targeting from top 20% to top 30% increased total adopters by roughly 42% while maintaining zero default exposure, despite a slight decline in adoption rate.  
 
 
 ## Final Recommendation
