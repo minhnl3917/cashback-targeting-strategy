@@ -1,8 +1,8 @@
-# Data-Driven Product & Marketing Strategy for a Credit Card Offer Launch
+# Credit Risk Modeling & Customer Segmentation: Cashback Offer Targeting Analysis
 
 ## Project Overview
 
-This project simulates the launch of a 5% cash-back offer and develops a data-driven targeting strategy under marketing budget constraint. The main objective is to identify which customer segments should be prioritized in order to maximize offer adoption while controlling credit risk exposure. By using behavioral metrics, customer segmentation, logistical regression modeling, and scenarios analysis, I evaluated multiple scenarios to determine the most effective customer group to balance growth and efficiency.
+This project simulates the launch of a 5% cash-back offer and develops a data-driven targeting strategy using credit risk modeling and customer segmentation. The main objective is to identify which customer segments should be prioritized in order to maximize offer adoption while controlling credit risk exposure. Behavioral metrics, customer segmentation, logistical regression modeling, and scenarios analysis were applied to determine the most effective customer group to balance growth and efficiency.
 
 ## Business Problem
 
