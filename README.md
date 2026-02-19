@@ -1,4 +1,4 @@
-# Data-Driven Product & Marketing Strategy for a Credit Card Offer Launch
+# Credit Risk Modeling & Customer Segmentation: Cashback Offer Targeting Analysis
 
 ## Project Overview
 
